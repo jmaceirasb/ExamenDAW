@@ -4,4 +4,4 @@
 - git commit
 - git push
 
-Linea añadida desde main por IZAN
+Linea añadida desde conflicto por IZAN
