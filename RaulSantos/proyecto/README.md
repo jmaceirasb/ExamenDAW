@@ -5,4 +5,4 @@ Lista:
 -git push
 ## Autor
 Raul Santos Andechaga
-Linea modificada para conflicto por Raul Santos Andechaga
+Linea modificada desde rama conflicto por Raul Santos
