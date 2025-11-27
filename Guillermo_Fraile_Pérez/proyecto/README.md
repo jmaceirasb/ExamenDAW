@@ -5,4 +5,4 @@ Lista de 3 comandos:
 	- git push
 
 Autor: Guillermo Fraile Pérez
-Línea añadida desde main por Guillermo Fraile Pérez
+Línea añadida desde rama conflicto por Guillermo Fraile Pérez
