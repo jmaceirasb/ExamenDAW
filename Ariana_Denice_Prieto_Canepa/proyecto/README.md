@@ -7,3 +7,4 @@ o	git push
 ## Autor
 	Ariana Denice Prieto Canepa
 
+Línea añadida desde main por Ariana Denice Prieto Canepa
