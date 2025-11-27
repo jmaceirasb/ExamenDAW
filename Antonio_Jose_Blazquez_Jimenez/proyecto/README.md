@@ -6,4 +6,4 @@ Una lista de 3 comandos de git
 	git clone
 	git commit
 	git push
-Linea Añadida por Antonio Jose Blazquez Jimenez
+Linea modificada desde rama conflito por Antonio Jose Blazquez Jimenez
