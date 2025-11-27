@@ -1,3 +1,3 @@
 ## Autor
 Adrian Miguel Soria
-Linea añadida desde main por Adrian Miguel Soria
+Linea añadida desde rama conflicto por Adrian Miguel Soria
