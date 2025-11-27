@@ -7,4 +7,4 @@ o	git push
 ## Autor
 	Ariana Denice Prieto Canepa
 
-Línea modificada desde rama conflicto por Ariana Denice Prieto Canepa
+Línea añadida desde rama main por Ariana Denice Prieto Canepa
