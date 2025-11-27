@@ -1,5 +1,5 @@
 Mi proyecto de examen
-Una lista de 3 comandos de Git:	
+Una lista de 3 comandos de git
 	git clone
 	git commit
 	git push
