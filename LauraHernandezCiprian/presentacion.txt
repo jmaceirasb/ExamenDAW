@@ -1,0 +1,3 @@
+Nombre: Laura Hernández Ciprián
+Fecha de exámen: 27-11-2025
+Comando de git: git add .
