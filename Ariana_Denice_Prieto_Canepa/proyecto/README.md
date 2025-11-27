@@ -4,3 +4,6 @@ o	git clone
 o	git commit
 o	git push
 
+## Autor
+	Ariana Denice Prieto Canepa
+
