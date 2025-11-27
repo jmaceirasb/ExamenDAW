@@ -4,4 +4,4 @@ o	git commit
 o	git push
 ## Autor
 	JAVIER DIAZ PABLOS
-Linea añadida desde main por JAVIER DIAZ PABLOS
+Linea modificada desde rama conflicto por JAVIER DIAZ PABLOS
