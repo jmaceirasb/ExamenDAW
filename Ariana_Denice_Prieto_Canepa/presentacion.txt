@@ -1,0 +1,3 @@
+•	Ariana Denice Prieto Canepa
+•	27/11/2025
+•	git merge rama -> sirve para fusionar los cambios de dos ramas
