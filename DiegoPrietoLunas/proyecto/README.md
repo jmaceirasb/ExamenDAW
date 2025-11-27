@@ -6,3 +6,5 @@ git clone
 git commit
 git push
 Línea añadida desde rama conflicto por Diego Prieto Lunas
+Añado más líneas para generar el conflicto
+
