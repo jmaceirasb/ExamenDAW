@@ -7,4 +7,4 @@ git commit
 git push
 	
     
-Línea añadida desde main por Adrián Gómez Izquierdo
+Línea añadida desde conflicto por Adrián Gómez Izquierdo
