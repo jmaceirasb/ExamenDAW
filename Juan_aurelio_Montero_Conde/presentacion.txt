@@ -1,0 +1,4 @@
+Juan Aurelio Montero Conde
+Jueves, 27 de Noviembre del 2025
+Comando: "git commit [etiqueta/s opcionales] -m [descripcion del commit entre comillas]"
+
