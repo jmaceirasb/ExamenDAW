@@ -1,0 +1,5 @@
+Nombre: Iván Martín Nieto
+
+Fecha Examen: 27/11/2025
+
+Comando git: "git checkout <nombre_rama>" para cambiar de rama
